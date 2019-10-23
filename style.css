@@ -37,8 +37,10 @@ figcaption {
 }
 
 div {
-width: 25%;
 float: left;
+width: 25%;
+margin: auto;
+
 }
 
 
