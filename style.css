@@ -9,4 +9,7 @@ header {
   margin: auto;
 }
 
-.featured-property
+#featured-property {
+  width: 100%;
+  margin: auto;
+}
