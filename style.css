@@ -32,17 +32,9 @@ figcaption {
   text-align: center;
 }
 
-#details {
+#details div {
   display: block;
   float: left;
+  width: 25%;
+  margin: auto;
 }
-
-div {
-width: 25%;
-margin: auto;
-
-}
-
-
-
-
