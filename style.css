@@ -33,10 +33,11 @@ figcaption {
 }
 
 #details {
-  display: block;
+ 
 }
 
 div {
+display: block;
 float: left;
 width: 25%;
 margin: auto;
