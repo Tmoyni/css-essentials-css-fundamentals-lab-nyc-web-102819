@@ -37,4 +37,5 @@ figcaption {
   float: left;
   width: 25%;
   margin: auto;
+  text-align: center;
 }
